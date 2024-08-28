@@ -1,1 +1,8 @@
-node_modules
+# dependency
+/node_modules
+
+#production
+/dist
+
+# live environment
+.env
